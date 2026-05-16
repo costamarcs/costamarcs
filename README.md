@@ -34,13 +34,24 @@
 
 ###
 
-<h2 align="left">🌐 Redes sociais</h2>
-
-###
+<h2 align="left">🌐 Redes Sociais e Contato</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/marco-a-costa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@marco.costa3321"><img src="https://www.svgrepo.com/show/354057/medium-icon.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marco-a-costa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    <img width="8" />
+  <a href="mailto:marco.costa3321@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <img width="8" />
+  <a href="https://medium.com/@marco.costa3321">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </div>
+<br>
+<p align="left">
+  <code>📩 E-mail para contato: marco.costa3321@gmail.com</code>
+</p>
 
 ###
