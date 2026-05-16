@@ -8,11 +8,11 @@
 ###
 
 <p align="left">
-  <code>Tenho 24 anos, moro em São Paulo, sou formado em Automação Industrial pela FATEC e estou em transição de carreira para a área de Dados. Minha bagagem em automação me    trouxe um pensamento lógico aguçado e uma alta capacidade de resolver problemas.</code>
+  <code>Tenho 24 anos, moro em São Paulo, sou formado em Automação Industrial pela FATEC e estou em transição de carreira para a área de Dados. Minha bagagem em automação me trouxe um pensamento lógico aguçado e uma alta capacidade de resolver problemas.</code>
   <br><br>
   <code>Hoje, aplico essa mentalidade para transformar dados brutos em insights inteligentes para negócios, criando automações, pipelines e análises eficientes.</code>
   <br><br>
-  <code>Sinta-se à vontade para explorar meus projetos! Se quiser trocar uma ideia sobre dados, meu LinkedIn está sempre aberto! :D</code>
+  <code>Sinta-se à vontade para explorar meus projetos! Se quiser entrar em contato, meu LinkedIn estará sempre aberto! :D</code>
 </p>
 
 ###
