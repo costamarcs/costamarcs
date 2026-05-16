@@ -8,11 +8,11 @@
 ###
 
 <p align="left">
-<code>Tenho 24 anos, moro em São Paulo, sou formado em Automação Industrial pela FATEC e estou em transição de carreira para a área de Dados. Minha bagagem em automação me trouxe um pensamento lógico aguçado e uma alta capacidade de resolver problemas.</code>
-<br><br>
-<code>Hoje, aplico essa mentalidade para transformar dados brutos em insights inteligentes para negócios, criando automações, pipelines e análises eficientes.</code>
-<br><br>
-<code>Sinta-se à vontade para explorar meus projetos! Se quiser trocar uma ideia sobre dados, meu LinkedIn está sempre aberto! :D</code>
+  <code>Tenho 24 anos, moro em São Paulo, sou formado em Automação Industrial pela FATEC e estou em transição de carreira para a área de Dados. Minha bagagem em automação me    trouxe um pensamento lógico aguçado e uma alta capacidade de resolver problemas.</code>
+  <br><br>
+  <code>Hoje, aplico essa mentalidade para transformar dados brutos em insights inteligentes para negócios, criando automações, pipelines e análises eficientes.</code>
+  <br><br>
+  <code>Sinta-se à vontade para explorar meus projetos! Se quiser trocar uma ideia sobre dados, meu LinkedIn está sempre aberto! :D</code>
 </p>
 
 ###
@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" height="40" alt="looker logo"  />
 </div>
