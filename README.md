@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=500&color=00FF41&background=00000000&width=435&lines=Bem-vindo+ao+meu+perfil!;Sinta-se+a+vontade+%3AD;Wake+up%2C+Neo..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&duration=3000&pause=500&color=00FF41&background=00000000&width=435&lines=Bem-vindo+ao+meu+perfil!;Sinta-se+a+vontade+%3AD" alt="Typing SVG" />
   </a>
 </h1>
 <h2 align="left">👨🏽‍💻Marco Antonio</h2>
@@ -47,6 +47,10 @@
 
   <a href="https://medium.com/@marco.costa3321" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  
+  <a href="https://www.kaggle.com/marcoantoniocosta" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </div>
 
