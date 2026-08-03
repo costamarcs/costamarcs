@@ -27,9 +27,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" height="40" alt="looker logo"  />
+  <img width="12" />
+  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1751096598" height="40" alt="looker logo"  />
+  <img width="12" />
+  <img src="https://companieslogo.com/img/orig/databricks-c40eaf44.png?t=1720244494" height="40" alt="looker logo"  />
 </div>
 
 ###
